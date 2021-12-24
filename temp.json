@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -49.2539,
+    "lat": -16.6786
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "nublado",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 30.83,
+    "feels_like": 30.69,
+    "temp_min": 30.35,
+    "temp_max": 30.83,
+    "pressure": 1017,
+    "humidity": 40
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.63,
+    "deg": 330
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1634308045,
+  "sys": {
+    "type": 1,
+    "id": 8372,
+    "country": "BR",
+    "sunrise": 1634287717,
+    "sunset": 1634332591
+  },
+  "timezone": -10800,
+  "id": 3462377,
+  "name": "Goiânia",
+  "cod": 200
+}
